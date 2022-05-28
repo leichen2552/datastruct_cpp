@@ -1,0 +1,16 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.9.4/5.9.4/msvc2017_64/bin/qmake)
+  DTstring.cpp
+  Exception.cpp
+  Object.cpp
+  main.cpp
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(81): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(140): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(159): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(178): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(270): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(414): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\68dtlib_btree_clone\dtlib\dtstring.cpp(478): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  DTLib.vcxproj -> E:\DTLib_datastructexe\68DTLib_BTree_clone\DTLib\debug\DTLib.exe

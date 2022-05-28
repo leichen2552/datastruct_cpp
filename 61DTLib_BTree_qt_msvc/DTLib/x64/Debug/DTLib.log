@@ -1,0 +1,52 @@
+﻿  DTstring.cpp
+  Object.cpp
+  main.cpp
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(81): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(140): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(159): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(178): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(270): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(414): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\dtstring.cpp(478): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(44): warning C4100: “node”: 未引用的形参 (编译源文件 main.cpp)
+  e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(45): note: 编译 类 模板 成员函数 "DTLib::BTreeNode<T> *DTLib::BTree<T>::find(DTLib::TreeNode<T> *) const" 时
+          with
+          [
+              T=A
+          ] (编译源文件 main.cpp)
+  e:\dtlib_datastructexe\61dtlib_btree\dtlib\main.cpp(58): note: 参见对正在编译的 类 模板 实例化 "DTLib::BTree<A>" 的引用
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(39): warning C4100: “value”: 未引用的形参 (编译源文件 main.cpp)
+  e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(40): note: 编译 类 模板 成员函数 "DTLib::BTreeNode<T> *DTLib::BTree<T>::find(const T &) const" 时
+          with
+          [
+              T=A
+          ] (编译源文件 main.cpp)
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(34): warning C4100: “node”: 未引用的形参 (编译源文件 main.cpp)
+  e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(35): note: 编译 类 模板 成员函数 "DTLib::SharedPointer<DTLib::Tree<T>> DTLib::BTree<T>::remove(DTLib::TreeNode<T> *)" 时
+          with
+          [
+              T=A
+          ] (编译源文件 main.cpp)
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(29): warning C4100: “value”: 未引用的形参 (编译源文件 main.cpp)
+  e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(30): note: 编译 类 模板 成员函数 "DTLib::SharedPointer<DTLib::Tree<T>> DTLib::BTree<T>::remove(const T &)" 时
+          with
+          [
+              T=A
+          ] (编译源文件 main.cpp)
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(22): warning C4100: “parent”: 未引用的形参 (编译源文件 main.cpp)
+  e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(23): note: 编译 类 模板 成员函数 "bool DTLib::BTree<A>::insert(const T &,DTLib::TreeNode<T> *)" 时
+          with
+          [
+              T=A
+          ] (编译源文件 main.cpp)
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(22): warning C4100: “value”: 未引用的形参 (编译源文件 main.cpp)
+e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(15): warning C4100: “node”: 未引用的形参 (编译源文件 main.cpp)
+  e:\dtlib_datastructexe\61dtlib_btree\dtlib\btree.h(16): note: 编译 类 模板 成员函数 "bool DTLib::BTree<A>::insert(DTLib::TreeNode<T> *)" 时
+          with
+          [
+              T=A
+          ] (编译源文件 main.cpp)
+  DTLib.vcxproj -> E:\DTLib_datastructexe\61DTLib_BTree\DTLib\debug\DTLib.exe

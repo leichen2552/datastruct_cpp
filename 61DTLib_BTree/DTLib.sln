@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DTLib", "DTLib\DTLib.vcxproj", "{E96D721F-6636-39B1-B904-ED572BB7D7B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E96D721F-6636-39B1-B904-ED572BB7D7B5}.Debug|x64.ActiveCfg = Debug|x64
+		{E96D721F-6636-39B1-B904-ED572BB7D7B5}.Debug|x64.Build.0 = Debug|x64
+		{E96D721F-6636-39B1-B904-ED572BB7D7B5}.Release|x64.ActiveCfg = Release|x64
+		{E96D721F-6636-39B1-B904-ED572BB7D7B5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF95C1D-DBF0-4394-A84A-BFCAA0BE07A6}
+	EndGlobalSection
+EndGlobal
